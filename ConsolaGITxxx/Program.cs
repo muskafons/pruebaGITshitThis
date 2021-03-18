@@ -14,6 +14,10 @@ namespace ConsolaGITxxx
             Console.WriteLine("Otra prueba de edición ...");
 
             Console.ReadLine();
+
+            maquina.showMensaje();
+
+            Console.ReadLine();
         }
     }
 }
