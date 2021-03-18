@@ -1,0 +1,16 @@
+C:\Users\muska\source\repos\pruebaGITshitThis\ConsolaGITxxx\bin\Debug\net5.0\ConsolaGITxxx.exe
+C:\Users\muska\source\repos\pruebaGITshitThis\ConsolaGITxxx\bin\Debug\net5.0\ConsolaGITxxx.deps.json
+C:\Users\muska\source\repos\pruebaGITshitThis\ConsolaGITxxx\bin\Debug\net5.0\ConsolaGITxxx.runtimeconfig.json
+C:\Users\muska\source\repos\pruebaGITshitThis\ConsolaGITxxx\bin\Debug\net5.0\ConsolaGITxxx.runtimeconfig.dev.json
+C:\Users\muska\source\repos\pruebaGITshitThis\ConsolaGITxxx\bin\Debug\net5.0\ConsolaGITxxx.dll
+C:\Users\muska\source\repos\pruebaGITshitThis\ConsolaGITxxx\bin\Debug\net5.0\ref\ConsolaGITxxx.dll
+C:\Users\muska\source\repos\pruebaGITshitThis\ConsolaGITxxx\bin\Debug\net5.0\ConsolaGITxxx.pdb
+C:\Users\muska\source\repos\pruebaGITshitThis\ConsolaGITxxx\obj\Debug\net5.0\ConsolaGITxxx.csprojAssemblyReference.cache
+C:\Users\muska\source\repos\pruebaGITshitThis\ConsolaGITxxx\obj\Debug\net5.0\ConsolaGITxxx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muska\source\repos\pruebaGITshitThis\ConsolaGITxxx\obj\Debug\net5.0\ConsolaGITxxx.AssemblyInfoInputs.cache
+C:\Users\muska\source\repos\pruebaGITshitThis\ConsolaGITxxx\obj\Debug\net5.0\ConsolaGITxxx.AssemblyInfo.cs
+C:\Users\muska\source\repos\pruebaGITshitThis\ConsolaGITxxx\obj\Debug\net5.0\ConsolaGITxxx.csproj.CoreCompileInputs.cache
+C:\Users\muska\source\repos\pruebaGITshitThis\ConsolaGITxxx\obj\Debug\net5.0\ConsolaGITxxx.dll
+C:\Users\muska\source\repos\pruebaGITshitThis\ConsolaGITxxx\obj\Debug\net5.0\ref\ConsolaGITxxx.dll
+C:\Users\muska\source\repos\pruebaGITshitThis\ConsolaGITxxx\obj\Debug\net5.0\ConsolaGITxxx.pdb
+C:\Users\muska\source\repos\pruebaGITshitThis\ConsolaGITxxx\obj\Debug\net5.0\ConsolaGITxxx.genruntimeconfig.cache
