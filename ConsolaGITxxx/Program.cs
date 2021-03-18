@@ -13,6 +13,7 @@ namespace ConsolaGITxxx
 
             Console.WriteLine("SELECCION DE ZORRAS");
 
+            Console.WriteLine("Sola planeación");
 
             Class1 clase = new Class1();
 
