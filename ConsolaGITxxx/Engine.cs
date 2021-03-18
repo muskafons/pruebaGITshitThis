@@ -8,16 +8,21 @@ namespace ConsolaGITxxx
 {
     class Engine
     {
+        private string mensaje = "SALUDOS";
+
+
+
         public Engine()
         {
 
-            Console.WriteLine("Just another code line");
+            Console.WriteLine("Just another code line" + mensaje);
         }
 
         public void showMensaje()
         {
             Console.WriteLine("Rama en la segunda prueba de git");
         }
+
 
     }
 }

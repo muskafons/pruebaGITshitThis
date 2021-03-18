@@ -8,19 +8,13 @@ namespace ConsolaGITxxx
         {
             Engine maquina = new Engine();
 
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World great!");
 
 
-            Console.WriteLine("Otra prueba de edición ...");
-
-            Console.ReadLine();
+            Console.WriteLine("SELECCION DE ZORRAS");
 
 
-            Console.WriteLine("Time to other change...");
-
-
-            Console.WriteLine("Hope there is not trouble please at merge time");
-            maquina.showMensaje();
+            Class1 clase = new Class1();
 
             Console.ReadLine();
         }
