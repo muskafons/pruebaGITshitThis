@@ -14,6 +14,14 @@ namespace ConsolaGITxxx
             Console.WriteLine("Otra prueba de edición ...");
 
             Console.ReadLine();
+
+
+
+
+
+            Console.WriteLine("Hope there is not trouble please at merge time");
+
+            Console.ReadLine();
         }
     }
 }
