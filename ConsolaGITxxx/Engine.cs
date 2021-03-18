@@ -14,5 +14,10 @@ namespace ConsolaGITxxx
             Console.WriteLine("Just another code line");
         }
 
+        public void showMensaje()
+        {
+            Console.WriteLine("Rama en la segunda prueba de git");
+        }
+
     }
 }

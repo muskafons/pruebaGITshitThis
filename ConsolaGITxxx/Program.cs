@@ -20,6 +20,7 @@ namespace ConsolaGITxxx
 
 
             Console.WriteLine("Hope there is not trouble please at merge time");
+            maquina.showMensaje();
 
             Console.ReadLine();
         }
