@@ -6,6 +6,8 @@ namespace ConsolaGITxxx
     {
         static void Main(string[] args)
         {
+            Engine maquina = new Engine();
+
             Console.WriteLine("Hello World!");
         }
     }
